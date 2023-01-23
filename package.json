@@ -30,11 +30,11 @@
         "eslint-plugin-react-hooks": "4.6.0",
         "eslint-plugin-simple-import-sort": "8.0.0",
         "eslint-plugin-unused-imports": "2.0.0",
-        "typescript": "4.9.4"
+        "typescript": "4.9.4",
+        "prettier": "2.8.3"
     },
     "devDependencies": {
-        "@jabberwocky-labs/prettier-config": "https://github.com/jabberwocky-labs/prettier-config",
-        "prettier": "2.8.3"
+        "@jabberwocky-labs/prettier-config": "https://github.com/jabberwocky-labs/prettier-config"
     },
     "packageManager": "yarn@3.3.1",
     "repository": "github:@jabberwocky-labs/eslint-config-nextjs",
