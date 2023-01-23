@@ -43,6 +43,10 @@ module.exports = {
         'prettier'
     ],
     rules: {
+        "react/function-component-definition": [2, {
+            "namedComponents": "arrow-function",
+            "unnamedComponents": "arrow-function"
+        }],
         "react/react-in-jsx-scope": 0,
         'no-await-in-loop': 0,
         'func-names': 0,
