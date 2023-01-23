@@ -43,6 +43,7 @@ module.exports = {
         'prettier'
     ],
     rules: {
+        "react/react-in-jsx-scope": 0,
         'no-await-in-loop': 0,
         'func-names': 0,
         'arrow-body-style': 0,
